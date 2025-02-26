@@ -1,0 +1,7 @@
+.aider*
+.env
+.idea/
+BLEURT-20/
+venv/
+newer_transformer/
+raw/
